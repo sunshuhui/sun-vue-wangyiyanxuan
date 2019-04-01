@@ -54,7 +54,7 @@
   }
 </script>
 <style lang="stylus" rel="stylesheet/stylus" scoped>
-  @import "../../common/stylus/mixins.styl"
+  @import "../../../../common/stylus/mixins.styl"
   .Home_Header
     position fixed
     left 0

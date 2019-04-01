@@ -55,11 +55,12 @@
     left 0
     right 0
     bottom 0
-    border-top 1px solid #eee
+    border-top 2px solid #eee
     width 100%
     height 98px
     z-index 100
     display flex
+    background-color #ffff
     .guide_item
       display flex
       flex 1

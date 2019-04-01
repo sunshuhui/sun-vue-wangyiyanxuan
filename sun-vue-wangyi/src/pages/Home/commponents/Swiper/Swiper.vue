@@ -29,7 +29,7 @@
 </template>
 
 <script>
-  import '../../../node_modules/swiper/dist/css/swiper.css'
+  import '../../../../../node_modules/swiper/dist/css/swiper.css'
   import Swiper from 'swiper'
 
   export default {
